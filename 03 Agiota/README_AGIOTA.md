@@ -12,7 +12,7 @@ Aprendi como fazer buscar nos ArrayList comparando um determinado atributo de ma
 Duvidas em como agregar indice nos elementos do ArrayList, alguns codigos não funcionaram contudo implementei todos os metodos errei em algum detelhe que não consegui encontrar.
 
 ## Quanto tempo você gastou no total da atividade?
-Levei cerca de uma semana, sendo aproxiadamente de 1 hora e meia por dia, para conclui o código postado.
+Levei cerca de uma semana, sendo aproxiadamente de 1 hora e meia por dia uma semana, para conclui o código postado.
 
 ## Informações
 O programa foi criado em java por ser uma linguagem que já estou usando durante a cadeira.
