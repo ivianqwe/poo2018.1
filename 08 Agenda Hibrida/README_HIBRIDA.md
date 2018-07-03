@@ -9,7 +9,7 @@ como anotações.
 Fiz todos os métodos do exercício, utilizei herança, mas não entendo muito bem, fiz todos os crudes, e a gregação da agenda na masteragenda. 
 
 ## O que você aprendeu e o que ainda tem dificuldade? 
-Como utiliza herança. Não sei muito bem quando devo utiliza herança e nem mesmo como, e ainda temho dificuldade de entender a agregação 
+Como utiliza herança. Não sei muito bem quando devo utiliza herança e nem mesmo como, e ainda tenho dificuldade de entender a agregação 
 entre classes, especialmente passando apenas a referencia do objeto.
 
 ## Quanto tempo você gastou no total da atividade? 
